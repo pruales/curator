@@ -4,6 +4,7 @@
 venv/
 .env
 __pycache__
+test.py
 
 # dependencies
 /node_modules
